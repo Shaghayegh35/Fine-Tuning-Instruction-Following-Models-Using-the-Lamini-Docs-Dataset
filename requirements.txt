@@ -1,0 +1,8 @@
+pandas>=2.0.0
+datasets>=2.18.0
+jsonlines>=4.0.0
+transformers>=4.44.0
+accelerate>=0.34.0
+torch>=2.2.0
+evaluate>=0.4.2
+sacrebleu>=2.3.1
